@@ -15,7 +15,7 @@
 		<label>Met welk speelgoed speelde je als kind het meest?</label><input type="text" name="q5"><br>
 		<label>Bij welke docent spijbel je het liefst?</label><input type="text" name="q6"><br>
 		<label>Als je € 100.00,- had, wat zou je dan kopen?</label><input type="text" name="q7"><br>
-		<label>Wat is je fovoriete bezigheid?</label><input type="text" name="q8"><br>
+		<label>Wat is je favoriete bezigheid?</label><input type="text" name="q8"><br>
 		<input type="submit" name="submit">
 	</form>
 
