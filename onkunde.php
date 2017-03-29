@@ -6,8 +6,9 @@
 	<link rel="stylesheet" type="text/css" href="madlibs.css">
 </head>
 <body>
-	<h1>madlibs</h1>
-
+	<h1>mad libs</h1>
+	<a href="index.php">Er heerst paniek...</a>
+	<a href="Onkunde.php">Onkunde</a>
 	<h3>Onkunde</h3>
 	<form action="onkunde_hoi.php" method="get" name="madlibs">
 		<label>Wat zou je graag willen kunnen?</label><input type="text" name="q1"><br>

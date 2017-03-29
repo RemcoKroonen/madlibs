@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(134, 121, 121);
+    text-align: center;
+    margin-top: ;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/*h1, p{
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);*/
+}
+h1{
+    top: 39%;
+    font-size: 80px;
+}
+p{
+    top: 50%;
+    font-size: 40px;
+}
