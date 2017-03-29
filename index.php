@@ -6,7 +6,10 @@
 	<link rel="stylesheet" type="text/css" href="madlibs.css">
 </head>
 <body>
-	<h1>madlibs</h1>
+	<h1>mad libs</h1>
+
+
+	<h3>Er heerst paniek...</h4>
 	<form action="index_libs.php" method="get" name="madlibs">
 		<label>Welk dier zou je nooit als huisdier willen hebben?</label><input type="text" name="q1"><br>
 		<label>Wie is de belangrijkste persoon in je leven?</label><input type="text" name="q2"><br>
